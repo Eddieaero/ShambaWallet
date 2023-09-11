@@ -1,0 +1,11 @@
+ios:
+  # icon: 'assets/icon.png'
+  # You can also specify the icon size here.
+  # For example, to use a 1024x1024 icon, you would use:
+  # icon: 'assets/virtual/icon@1024x1024.png'
+
+android:
+  icon: 'assets/virtual/icon.png'
+  # You can also specify the icon background color here.
+  # For example, to use a white background, you would use:
+  background_color: '#ffffff'
